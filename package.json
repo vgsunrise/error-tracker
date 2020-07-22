@@ -1,0 +1,11 @@
+{
+  "name": "@sunrisesoft/errortracker",
+  "version": "1.0.0",
+  "description": "This library used to track all kind of errors with less code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinay Gupta",
+  "license": "ISC"
+}
